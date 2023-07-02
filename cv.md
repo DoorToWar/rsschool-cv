@@ -14,7 +14,7 @@ I want to study frontend js, in the future to work in this direction, also inter
 Skills:
 ====
 Programming languages: python, c++
-that`s all. . .
+Only it
 
 Code examples:
 =====
