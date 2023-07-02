@@ -1,1 +1,1 @@
-# rsschool-cv
+https://DoorToWar.github.io/rsschool-cv/cv
