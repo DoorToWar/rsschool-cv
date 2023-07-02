@@ -4,7 +4,6 @@ Contacts:
 =
 - Telegram: https://t.me/DoorToWar
 - GitHub: https://github.com/DoorToWar
-- VK: https://vk.com/sladky_pirojok
 - Email: kolotos@list.ru
 
 About me:
